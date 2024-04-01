@@ -1,5 +1,3 @@
-{{-- layout для lp --}}
-
 <!doctype html>
 <html lang="ru">
 <head>

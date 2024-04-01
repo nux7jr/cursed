@@ -1,6 +1,8 @@
-@extends('layouts.default')
+@extends('auth.guest')
 @section('content')
 <div>
-setting
+guest layout
+<a href='/login'>login</a>
+<livewire:create-post />
 </div>
 @stop
