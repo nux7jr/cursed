@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="ru" class="dark">
+<html lang="ru">
 <head>
    @include('includes.head')
 </head>

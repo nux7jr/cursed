@@ -12,21 +12,6 @@ Route::get('/login', function () {
 Route::get('/register', function () {
     return view('pages.sing-in.register');
 });
-Route::get('/courses/create', function () {
-    return view('pages.courses.create');
-});
-Route::get('/courses/index', function () {
-    return view('pages.courses.index');
-});
-Route::get('/exercise/create', function () {
-    return view('pages.exercise.create');
-});
-Route::get('/exercise/index', function () {
-    return view('pages.exercise.index');
-});
-Route::get('/stats', function () {
-    return view('pages.stats');
-});
 Route::get('/settings', function () {
     return view('pages.settings');
 });
