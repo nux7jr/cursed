@@ -16,5 +16,6 @@
    <footer>
        footer guest
    </footer>
+   @livewireScripts
 </body>
 </html>

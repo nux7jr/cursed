@@ -17,5 +17,6 @@
     watcher footer
 
    </footer>
+   @livewireScripts
 </body>
 </html>

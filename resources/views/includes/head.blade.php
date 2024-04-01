@@ -12,4 +12,5 @@
 
 {{-- Main resources --}}
 @vite(['resources/css/app.css', 'resources/js/app.js'])
+@livewireStyles
 <title>Cursed</title>
